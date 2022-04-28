@@ -30,7 +30,7 @@
     "@rodrigogs/zongji": "https://github.com/EasyTech-International-Sdn-Bhd/zongji.git#EasyTech",
     "debug": "^4.1.1",
     "debuggler": "^1.0.0",
-    "mysql": "^2.18.1"
+    "mysql": "https://github.com/mjm918/mysql.git#f81e3c2ad8d778019b48a01515ce7349b1af7eef"
   },
   "devDependencies": {
     "chai": "^4.2.0",
