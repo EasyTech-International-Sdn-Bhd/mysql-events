@@ -27,7 +27,7 @@
     "coverage": "nyc --reporter=lcov npm test"
   },
   "dependencies": {
-    "@rodrigogs/zongji": "https://github.com/EasyTech-International-Sdn-Bhd/zongji.git#EasyTech",
+    "@rodrigogs/zongji": "https://github.com/EasyTech-International-Sdn-Bhd/zongji.git#fc2bca6b457639214e8a2083bab76fbcc1024074",
     "debug": "^4.1.1",
     "debuggler": "^1.0.0",
     "mysql": "https://github.com/mjm918/mysql.git#f81e3c2ad8d778019b48a01515ce7349b1af7eef"
